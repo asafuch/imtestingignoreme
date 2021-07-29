@@ -24,7 +24,7 @@ function highestCardWins() {
   }
 }
 console.log(highestCardWins());
-
+consoel.log("hello")
 function valueAlign(card) {
   if (typeof card !== "number") {
     switch (card) {
