@@ -11,6 +11,7 @@ function highestCardWins() {
     name: options[firstCardIndex],
     value: valueAlign(options[firstCardIndex]),
   };
+  console.log("hello")
   const secondCard = {
     name: options[SecondCardIndex],
     value: valueAlign(options[SecondCardIndex]),
